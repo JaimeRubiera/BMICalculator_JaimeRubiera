@@ -13,7 +13,7 @@ class ViewModel_BMI : ViewModel() {
 
 
     fun countBmi (mass: Double, height: Double){
-        var bmi: Double = ((mass / (height * height)) * 10000)
+        var bmi:Double = (mass*10000)/(height*height)
         iBmi.value = bmi
     }
 }

@@ -22,15 +22,3 @@ public class BMI_Count {
         double totalHeightInInches = (heightFeet * INCHES_IN_FOOT) + heightInches;
         return (BMI_IMPERIAL_WEIGHT_SCALAR * weightLbs) / (totalHeightInInches * totalHeightInInches);
     }
-
-    public String classifyBMI(double bmi) {
-        if (bmi < 18.5) {
-            return BMI_CATEGORY_UNDERWEIGHT;
-        } else if (bmi >= 18.5 && bmi < 25) {
-            return BMI_CATEGORY_HEALTHY;
-        } else if (bmi >= 25 && bmi < 30){
-            return BMI_CATEGORY_OVERWEIGHT;
-        } else {
-            return BMI_CATEGORY_OBESE;
-        }
-    }

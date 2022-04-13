@@ -3,12 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.21912370039251955" />
+        <entry key="app/src/main/res/layout-land/activity_author_information.xml" value="0.4560958862304687" />
+        <entry key="app/src/main/res/layout-land/activity_imperial.xml" value="0.45" />
+        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.3622633488300196" />
+        <entry key="app/src/main/res/layout/activity_author_information.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_bmi_normal.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_bmi_obese.xml" value="0.2750640869140624" />
+        <entry key="app/src/main/res/layout/activity_bmi_overweight.xml" value="0.32527465820312496" />
+        <entry key="app/src/main/res/layout/activity_bmi_underweight.xml" value="0.3367095947265625" />
         <entry key="app/src/main/res/layout/activity_bmiview_model.xml" value="0.23229166666666667" />
-        <entry key="app/src/main/res/layout/activity_imperial.xml" value="0.3423913043478261" />
+        <entry key="app/src/main/res/layout/activity_imperial.xml" value="0.33000030517578127" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.29362579345703127" />
         <entry key="app/src/main/res/layout/activity_view_model_bmi.xml" value="0.23229166666666667" />
-        <entry key="app/src/main/res/menu/example.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/menu/example.xml" value="0.335" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.3" />
       </map>
     </option>
   </component>

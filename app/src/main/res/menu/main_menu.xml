@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Metric_Units"
+        android:title="Metric units"/>
+
+    <item android:id="@+id/Imperial_Units"
+        android:title="Imperial units"/>
+
+    <item android:id="@+id/Author_information"
+        android:title="Author information"/>
+
+</menu>

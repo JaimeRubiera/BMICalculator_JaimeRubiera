@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab1_Jaime_Rubiera">
         <activity
+            android:name=".BMI_obese"
+            android:exported="false" />
+        <activity
+            android:name=".BMI_overweight"
+            android:exported="false" />
+        <activity
+            android:name=".BMI_normal"
+            android:exported="false" />
+        <activity
+            android:name=".BMI_underweight"
+            android:exported="false" />
+        <activity
+            android:name=".Author_information"
+            android:exported="false" />
+        <activity
             android:name=".ViewModel_BMI"
             android:exported="false" />
         <activity

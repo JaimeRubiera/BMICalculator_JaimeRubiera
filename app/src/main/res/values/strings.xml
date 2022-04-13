@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Lab1_Jaime_Rubiera</string>
+    <string name="app_name">BMI Calculator - Jaime Rubiera</string>
+    <string name="Metric_Units">Metric_Units</string>
+    <string name="Imperial_Units">Imperial_Units</string>
+    <string name="Author_information">Author_information</string>
+
 </resources>
